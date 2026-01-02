@@ -1,0 +1,8 @@
+{
+  "name": "Provizní Net - Internet, který se zaplatí sám",
+  "description": "Subbrand ISP zaměřený na komunitní doporučování. Získejte 10 % slevu za každého doporučeného klienta. Doporučení se sčítají, až k internetu zdarma.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
